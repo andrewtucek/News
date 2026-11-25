@@ -25,5 +25,45 @@
       "en": "Illustration of a Chinook arch, not a photograph of current conditions.",
       "cs": "Ilustrace chinookového oblouku, nikoli fotografie aktuálního počasí."
     }
+  },
+  {
+    "id": "brno-spine",
+    "date": "2026-11-25",
+    "region": 2,
+    "source": "https://www.med.muni.cz/en/research-and-development/research/achievements/october-2026-in-science-at-med-muni",
+    "en": {
+      "title": "Czech doctors achieve a national first in spinal surgery",
+      "body": [
+        "Neurosurgeons at St. Anne’s University Hospital and Masaryk University in Brno have successfully performed Czechia’s first endoscopic operation for a herniated cervical disc.",
+        "The team began its spinal endoscopy programme in 2023 and has since treated hundreds of patients using endoscopic methods. The achievement expands minimally invasive treatment options."
+      ]
+    },
+    "cs": {
+      "title": "Čeští lékaři dosáhli prvenství v operacích páteře",
+      "body": [
+        "Neurochirurgové Fakultní nemocnice u sv. Anny v Brně a Masarykovy univerzity jako první v Česku úspěšně provedli endoskopickou operaci výhřezu ploténky v oblasti krční páteře.",
+        "Program endoskopických operací zahájili v roce 2023 a touto metodou již operovali stovky pacientů. Úspěch rozšiřuje možnosti miniinvazivní léčby."
+      ]
+    }
+  },
+  {
+    "id": "liberec-food-bank",
+    "date": "2026-11-25",
+    "region": 2,
+    "source": "https://genus.cz/regiony/liberecky-kraj/podzimni-sbirka-zajistila-pro-potrebne-v-kraji-pres-36-tun-trvanlivych-potravin-drogerie-a-hygienickych-potreb-n748748.htm",
+    "en": {
+      "title": "Liberec Region collects a record 36.5 tonnes of donations",
+      "body": [
+        "Residents donated nearly 36.5 tonnes of non-perishable food and hygiene products during the autumn collection, about four tonnes more than last year.",
+        "The donations replenished regional food bank supplies ahead of growing demand, including from seniors and single-parent families."
+      ]
+    },
+    "cs": {
+      "title": "Rekordní solidarita: Liberecký kraj vybral téměř 36,5 tuny pomoci",
+      "body": [
+        "Obyvatelé během podzimní sbírky darovali téměř 36,5 tuny potravin, drogerie a hygienických potřeb, přibližně o čtyři tuny více než loni.",
+        "Sbírka doplnila zásoby regionální potravinové banky, která očekává rostoucí poptávku po pomoci mimo jiné ze strany seniorů a samoživitelů."
+      ]
+    }
   }
 ]
