@@ -19,6 +19,11 @@
         "Chinook je teplý a suchý vítr sestupující po východních svazích Skalistých hor. Při sestupu se vzduch stlačuje a otepluje. Někdy vzniká charakteristický oblačný oblouk.",
         "Rychlé tání sněhu může při následném ochlazení způsobit náledí. Aktuální předpověď poskytuje kanadská meteorologická služba."
       ]
+    },
+    "image": "images/chinook.svg",
+    "imageCredit": {
+      "en": "Illustration of a Chinook arch, not a photograph of current conditions.",
+      "cs": "Ilustrace chinookového oblouku, nikoli fotografie aktuálního počasí."
     }
   }
 ]
