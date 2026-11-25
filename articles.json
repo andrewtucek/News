@@ -1,0 +1,24 @@
+[
+  {
+    "id": "calgary-chinook-2026-11-25",
+    "date": "2026-11-25",
+    "region": 1,
+    "source": "https://weather.gc.ca/",
+    "en": {
+      "title": "Calgary warm spell: could a Chinook be developing?",
+      "body": [
+        "Calgary is experiencing mild late-November weather. An early-morning weather reading of about 3°C and forecasts of above-freezing daytime temperatures suggest a welcome break from colder conditions. A Chinook has not been independently confirmed.",
+        "Chinooks are warm, dry winds that descend the eastern slopes of the Rocky Mountains. As air descends, compression warms it. A distinctive cloud arch can sometimes accompany the phenomenon.",
+        "Rapid snowmelt can leave icy sidewalks when temperatures fall below freezing again. Check Environment and Climate Change Canada for updated local forecasts."
+      ]
+    },
+    "cs": {
+      "title": "V Calgary se otepluje. Přichází chinook?",
+      "body": [
+        "Calgary zažívá mírné počasí na konci listopadu. Časně ráno se teplota pohybovala kolem 3 °C a předpověď naznačuje denní teploty nad nulou. Výskyt chinooku zatím nebyl nezávisle potvrzen.",
+        "Chinook je teplý a suchý vítr sestupující po východních svazích Skalistých hor. Při sestupu se vzduch stlačuje a otepluje. Někdy vzniká charakteristický oblačný oblouk.",
+        "Rychlé tání sněhu může při následném ochlazení způsobit náledí. Aktuální předpověď poskytuje kanadská meteorologická služba."
+      ]
+    }
+  }
+]
