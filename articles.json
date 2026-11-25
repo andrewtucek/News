@@ -44,6 +44,11 @@
         "Neurochirurgové Fakultní nemocnice u sv. Anny v Brně a Masarykovy univerzity jako první v Česku úspěšně provedli endoskopickou operaci výhřezu ploténky v oblasti krční páteře.",
         "Program endoskopických operací zahájili v roce 2023 a touto metodou již operovali stovky pacientů. Úspěch rozšiřuje možnosti miniinvazivní léčby."
       ]
+    },
+    "image": "images/brno-spine.svg",
+    "imageCredit": {
+      "en": "Original editorial illustration; not a photograph of the event.",
+      "cs": "Původní redakční ilustrace; nejde o fotografii události."
     }
   },
   {
@@ -64,6 +69,11 @@
         "Obyvatelé během podzimní sbírky darovali téměř 36,5 tuny potravin, drogerie a hygienických potřeb, přibližně o čtyři tuny více než loni.",
         "Sbírka doplnila zásoby regionální potravinové banky, která očekává rostoucí poptávku po pomoci mimo jiné ze strany seniorů a samoživitelů."
       ]
+    },
+    "image": "images/liberec-food-bank.svg",
+    "imageCredit": {
+      "en": "Original editorial illustration; not a photograph of the event.",
+      "cs": "Původní redakční ilustrace; nejde o fotografii události."
     }
   }
 ]
